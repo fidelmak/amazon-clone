@@ -5,7 +5,7 @@ import Product from './Product';
 function Home() {
   return (
     <div className="home">
-        <img className='home__image' src="https://m.media-amazon.com/images/I/71aQ3u78A3L._SX3000_.jpg" alt="" />
+        <img className='home__image' src="https://m.media-amazon.com/images/I/71tIrZqybrL._SX3000_.jpg" alt="" />
 
       
         {/* creating product, id, title rating and others */}

@@ -7,6 +7,8 @@ import { useStateValue } from './StateProvider';
 
 export function Header(props) {
     const [{ basket}] = useStateValue();
+
+    //console.log(basket);
     
 
     return (
@@ -59,7 +61,7 @@ export function Header(props) {
                         {/* shopping item basket */}
                         <ShoppingBasketIcon />
                         {/* number of items  */}
-                        <span className='header__optionLineTwo header__basketCount'>{basket.length}</span>
+                        <span className='header__optionLineTwo header__basketCount'>{basket?.length}</span>
                     </div>
                  </Link>
                   
