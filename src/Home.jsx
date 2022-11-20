@@ -19,14 +19,14 @@ function Home() {
         image="https://images-na.ssl-images-amazon.com/images/G/01/events/GFAH/GWDesktop_SingleImageCard_fitathome_1x._SY304_CB434924743_.jpg" />
 
         <Product
-        id="1"
+        id="2"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/GW/CategoryCards/DT/HOL22_GW_DT_CatCard_Gifts-Under-10_1x._SY304_CB606833054_.jpg" />
 
         <Product
-        id="1"
+        id="3"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -34,7 +34,7 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="4"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -44,7 +44,7 @@ function Home() {
         <div className="home__row">
 
         <Product
-        id="1"
+        id="5"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -52,14 +52,14 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="6"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg" />
 
          <Product
-        id="1"
+        id="7"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -67,7 +67,7 @@ function Home() {
 
 
          <Product
-        id="1"
+        id="8"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -77,7 +77,7 @@ function Home() {
         <div className="home__r">
 
         <Product
-        id="1"
+        id="9"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -93,21 +93,21 @@ function Home() {
         </div>
         <div className="home__row">
         <Product
-        id="1"
+        id="10"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/81wm3qIEFvL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="11"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/61n+vIfzOKL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="12"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -115,7 +115,7 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="13"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -127,21 +127,21 @@ function Home() {
 
         <div className="home__row">
         <Product
-        id="1"
+        id="14"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/711SDEOjuyL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="15"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/31jVGBflDRL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="16"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -149,7 +149,7 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="17"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -171,21 +171,21 @@ function Home() {
 
         <div className="home__row">
         <Product
-        id="1"
+        id="18"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/G/01/events/GFAH/GWDesktop_SingleImageCard_fitathome_1x._SY304_CB434924743_.jpg" />
 
         <Product
-        id="1"
+        id="19"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2022/HOL22/GW/CategoryCards/DT/HOL22_GW_DT_CatCard_Gifts-Under-10_1x._SY304_CB606833054_.jpg" />
 
         <Product
-        id="1"
+        id="20"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -193,7 +193,7 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="21"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -203,7 +203,7 @@ function Home() {
         <div className="home__row">
 
         <Product
-        id="1"
+        id="22"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -211,14 +211,14 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="23"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg" />
 
          <Product
-        id="1"
+        id="24"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -226,7 +226,7 @@ function Home() {
 
 
          <Product
-        id="1"
+        id="25"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -236,7 +236,7 @@ function Home() {
         <div className="home__r">
 
         <Product
-        id="1"
+        id="26"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -252,21 +252,21 @@ function Home() {
         </div>
         <div className="home__row">
         <Product
-        id="1"
+        id="27"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/81wm3qIEFvL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="28"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
         image="https://m.media-amazon.com/images/I/61n+vIfzOKL._AC_UL320_.jpg" />
 
         <Product
-        id="1"
+        id="29"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -274,7 +274,7 @@ function Home() {
 
 
         <Product
-        id="1"
+        id="30"
         title="the lean Startup the lean "
         price={11.96} 
         rating={5}
@@ -286,7 +286,7 @@ function Home() {
 
         <div className="home__row">
         <Product
-        id="1"
+        id="31"
         title="The lean Startup the lean "
         price={11.96} 
         rating={5}

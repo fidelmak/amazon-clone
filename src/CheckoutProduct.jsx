@@ -4,15 +4,15 @@ import { useStateValue } from './StateProvider'
 
 
 function CheckoutProduct({id,title,image,rating,price}) {
-
-
     const [{ basket }, dispatch] = useStateValue();
-    const RemoveFromBasket = () => {
+    console.log(id,title,image,rating,price);
+
+    const removeFromBasket = () => {
+        // remove the item from the basket
         dispatch({
-            type:"REMOVE_FROM_BASKET",
-            id:id
+            type: 'REMOVE_FROM_BASKET',
+            id: id,
         })
-    
     }
   return (
     <div className='checkoutProduct'>
@@ -34,7 +34,7 @@ function CheckoutProduct({id,title,image,rating,price}) {
                 ))
             }
         </div>
-                <button onClick={RemoveFromBasket}>Remove from Cart</button>
+                <button onClick={removeFromBasket}>Remove from Cart</button>
 
     </div>
 
