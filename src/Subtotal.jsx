@@ -1,9 +1,9 @@
 import React from "react";
 import "./Subtotal.css";
-import CurrencyFormat from "react-currency-format";
+//import CurrencyFormat from "react-currency-format";
 import { useStateValue } from "./StateProvider";
 import { getBasketTotal } from "./Reducer";
-import { useHistory } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 
 function Subtotal() {
   const history = useHistory();
@@ -11,7 +11,7 @@ function Subtotal() {
 
   return (
     <div className="subtotal">
-      <CurrencyFormat
+      <Link
         renderText={(value) => (
           <>
             <p>
